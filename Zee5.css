@@ -1,0 +1,365 @@
+#rex{
+    display: flex;
+    /* justify-content: space-between; */
+    /* justify-items: center; */
+    /* justify-content: center; */
+    /* justify-content: space-between; */
+    align-items: center;
+    background-color: black;
+}
+#man{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* left: 100px; */
+
+}
+#max{
+    background-color: black;
+    
+}
+/* #bb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+} */
+#b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+#d{
+    content: url("../class1/photos/ZEE5_logo.svg");
+}
+
+#a{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+} 
+.z{
+    color:white;
+}
+#s{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* margin-top: 50px; */
+    /* border-radius: 20px; */
+}
+.e{
+    border-radius: 20px;
+    height: 300px;
+    width: 200px;
+    content: url("./photos/nithin.webp");
+    /* animation: slide; 
+    animation-duration: 2s;
+    animation-timing-function: linear; */
+    /* animation-iteration-count: infinite; */
+}
+
+ .e:hover{ 
+    height: 350px;
+    width: 250px;
+    transition-duration: 1s;
+         
+ }  
+
+
+
+.f{
+    border-radius: 20px;
+    height: 300px;
+    width: 200px;
+    content: url("./photos/bacchan.webp");
+}
+.f:hover{
+    height: 350px;
+    width: 250px;
+    transition-duration: 1s;
+}
+.g{
+    border-radius: 20px;
+    height: 300px;
+    width: 200px;
+    content: url("./photos/chup.webp");
+    
+}
+.g:hover{
+    height: 350px;
+    width: 250px;
+    transition-duration: 1s;
+    
+}
+.h{
+    border-radius: 20px;
+    height: 300px;
+    width: 200px;
+    content: url("./photos/RRR.webp");
+}
+.h:hover{
+    height: 350px;
+    width: 250px;
+    transition-duration: 1s;
+}
+.i{
+    border-radius: 20px;
+    height: 300px;
+    width: 200px;
+    content: url("./photos/s-man.webp");
+}
+.i:hover{
+    height: 350px;
+    width: 250px;
+    transition-duration: 1s;
+}
+.j{
+    border-radius: 20px;
+    height: 300px;
+    width: 200px;
+    content: url("./photos/VR.webp");
+}
+.j:hover{
+    height: 350px;
+    width: 250px;
+    transition-duration: 1s;
+}
+
+#pp{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.k{
+    border-radius: 20px;
+    height: 300px;
+    width: 200px;
+    content: url("./photos/pursuit.webp");
+}
+.k:hover{
+    height: 350px;
+    width: 250px;
+    transition-duration: 1s;
+}
+.l{
+    border-radius: 20px;
+    height: 300px;
+    width: 200px;
+    content: url("./photos/JW.webp");
+}
+.l:hover{
+    height: 350px;
+    width: 250px;
+    transition-duration: 1s;
+}
+.m{
+    border-radius: 20px;
+    height: 300px;
+    width: 200px;
+    content: url("./photos/beast.webp");
+}
+.m:hover{
+    height: 350px;
+    width: 250px;
+    transition-duration: 1s;
+}
+.n{
+    border-radius: 20px;
+    height: 300px;
+    width: 200px;
+    content: url("./photos/BT.webp");
+}
+.n:hover{
+    height: 350px;
+    width: 250px;
+    transition-duration: 1s;
+}
+.o{
+    border-radius: 20px;
+    height: 300px;
+    width: 200px;
+    content: url("./photos/Hansan.webp");
+}
+.o:hover{
+    height: 350px;
+    width: 250px;
+    transition-duration: 1s;
+}
+.p{
+    border-radius: 20px;
+    height: 300px;
+    width: 200px;
+    content: url("./photos/minions.webp");
+}
+.p:hover{
+    height: 350px;
+    width: 250px;
+    transition-duration: 1s;
+}
+
+#language{
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.a1{
+    border: 2px solid black;
+    height: 150px;
+    width: 240px;
+    border-radius: 20px;
+    content: url("./photos/kannada.webp");
+}
+.a1:hover{ 
+    height: 180px;
+    width: 270px;
+    transition-duration: 1s;
+         
+ }  
+.a2{
+    border: 2px solid black;
+    height: 150px;
+    width: 240px;
+    border-radius: 20px;
+    content: url("./photos/english.webp");
+}
+.a2:hover{ 
+    height: 180px;
+    width: 270px;
+    transition-duration: 1s;
+         
+ } 
+.a3{
+    border: 2px solid black;
+    height: 150px;
+    width: 250px;
+    border-radius: 20px;
+    content: url("./photos/hindi.webp");
+}
+.a3:hover{ 
+    height: 180px;
+    width: 270px;
+    transition-duration: 1s;
+         
+ } 
+.a4{
+    border: 2px solid black;
+    height: 150px;
+    width: 250px;
+    border-radius: 20px;
+    content: url("./photos/tamil.webp");
+}
+.a4:hover{ 
+    height: 180px;
+    width: 270px;
+    transition-duration: 1s;
+         
+ } 
+.a5{
+    border: 2px solid black;
+    height: 150px;
+    width: 250px;
+    border-radius: 20px;
+    content: url("./photos/telugu.webp");
+}
+.a5:hover{ 
+    height: 180px;
+    width: 270px;
+    transition-duration: 1s;
+         
+ } 
+.a6{
+    border: 2px solid black;
+    height: 150px;
+    width: 240px;
+    border-radius: 20px;
+    content: url("./photos/malayalam.webp");
+}
+.a6:hover{ 
+    height: 180px;
+    width: 270px;
+    transition-duration: 1s;
+         
+ } 
+
+
+
+#foot{
+    height: 100px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+}
+#line{
+    
+    border: 1px solid white;
+}
+#fd{
+    height: 50px;
+    width: 500px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 100px;
+    justify-content: space-evenly;
+}
+#fdd{
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-right: 200px;
+}
+
+.dd{
+    height: 40px;
+    width: 150px;
+    border: 2px solid black;
+    color: white;
+}
+.ddd{
+    height: 40px;
+    width: 50px;
+    border: 2px solid black;
+    color: white;
+}
+#co{
+    margin-top: 45px;
+    position: relative;
+    margin-left: 300px;
+}
+#fmenu{
+      height: 50px;
+      /* width: 500px; */
+      border: 2px solid black;
+      display: flex;
+      background-color: black;
+}
+#fm{
+    height: 40px;
+    width: 600px;
+    margin-left: 110px;
+    border: 2px solid black;
+    /* color: aliceblue; */
+}
+
+#footer{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+}
+.li{
+    list-style: none;
+    /* color: white; */
+}
+

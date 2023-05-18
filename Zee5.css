@@ -1,9 +1,5 @@
 #rex{
     display: flex;
-    /* justify-content: space-between; */
-    /* justify-items: center; */
-    /* justify-content: center; */
-    /* justify-content: space-between; */
     align-items: center;
     background-color: black;
 }
@@ -11,19 +7,12 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    /* left: 100px; */
 
 }
 #max{
     background-color: black;
     
 }
-/* #bb{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
-} */
 #b{
     display: flex;
     justify-content: center;
@@ -48,18 +37,12 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    /* margin-top: 50px; */
-    /* border-radius: 20px; */
 }
 .e{
     border-radius: 20px;
     height: 300px;
     width: 200px;
     content: url("./photos/nithin.webp");
-    /* animation: slide; 
-    animation-duration: 2s;
-    animation-timing-function: linear; */
-    /* animation-iteration-count: infinite; */
 }
 
  .e:hover{ 
@@ -68,8 +51,6 @@
     transition-duration: 1s;
          
  }  
-
-
 
 .f{
     border-radius: 20px;
